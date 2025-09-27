@@ -1,6 +1,12 @@
-# 💫 About Me:
-👋 Hi, I’m @CodePicsel<br>👀 I’m interested talking with you😅... JKin i like to code C# & Java for android.<br>🌱 I’m currently learning advance C#<br>💞️ I’m looking to collaborate on a Unity Game.<br>📫 How to reach me:- Email- bankarshashank9@gmail.com.
+# 💫 About Me
 
+👋 Hi, I’m **@CodePicsel**  
+💻 I have 3+ years of experience in **app development** with a strong focus on **C#**, **Java**, and **Python**.  
+🎮 Currently building a **Unity-based space game** with realistic physics, takeoff, landing, and controls.  
+🌱 Learning **advanced C#** and exploring **React + Tailwind** for modern web apps (including fiat & crypto exchange).  
+🛠️ Worked on projects like **QR-based attendance systems**, **waste detection ML models**, and **cross-platform apps**.  
+🤝 I’m open to collaborating on **Unity games, React apps, and AI-driven projects**.  
+📫 Reach me at **bankarshashank9@gmail.com**  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shashank-bankar-a85b65237) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bankarshashank9@gmail.com) 
